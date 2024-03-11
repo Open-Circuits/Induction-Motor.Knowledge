@@ -32,6 +32,9 @@ https://www.tutorialspoint.com/double-revolving-field-theory-of-single-phase-ind
 - [Single phase Induction Motor / Capacitor start capacitor run motor / Capacitor start induction motor](https://youtu.be/WnQh-J0rRYg)
 - [What is Common, Start and Run?](https://youtu.be/g2ADgrUhb7Y)
 
+### Advanced:
+- [Motors 5 PSC motors - HVAC Online Training and Courses](https://youtu.be/abW4gI4JjNc)
+
 ### Wiring:
 - [Single Phase Electric Motor Wiring Tutorial: Baldor, WEG, Leeson](https://youtu.be/rLymneTNIdI)
 - [How to connect a single phase motor and identify each winding lead ?](https://youtu.be/5sVNy4jADeI)
@@ -49,6 +52,9 @@ https://www.tutorialspoint.com/double-revolving-field-theory-of-single-phase-ind
 - [How to Run 3 phase Motor with 1 phase power supply |](https://youtu.be/i9JmWO2V_yY)
 
 ## Capacitor
+### Start vs. Run
+- [Start Capacitors & Run Capacitors for Electric Motors - Differences Explained by TEMCo](https://youtu.be/OMd9QkinXz4)
+
 ### Sizing
 - [Sizing a capacitor for PF correction](https://youtu.be/TPqXNLkJTJM)
 
