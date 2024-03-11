@@ -14,6 +14,9 @@
 - [How does an Induction Motor work?](https://youtu.be/AQqyGNOP_3o)
 - [Motor Basics](https://youtu.be/qpKybaLURy0)
 
+## Favorite:
+- [Single Phase Induction Motor (Capacitor Induction Motor or AC Motor) explained](https://youtu.be/FDerrQw99KU)
+
 ### Double Revolving Field Theory
 sch: https://www.google.com/search?q=double+revolving+field+theory
 https://www.tutorialspoint.com/double-revolving-field-theory-of-single-phase-induction-motors
