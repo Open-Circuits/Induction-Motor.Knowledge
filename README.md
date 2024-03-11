@@ -16,10 +16,15 @@ sch: https://www.google.com/search?q=double+revolving+field+theory
 - [How does an Induction Motor work?](https://youtu.be/AQqyGNOP_3o)
 - [Motor Basics](https://youtu.be/qpKybaLURy0)
 
+## Reversing:
+- [Reversing single phase induction motors](https://youtu.be/__nS3OelY-s)
+
 ## Single Phase
 ### Fundamentals:
 - [Single Phase Induction Motor, How it works ?](https://youtu.be/awrUxv7B-a8)
 - [Single Phase Induction Motor (Capacitor Induction Motor or AC Motor) explained](https://youtu.be/FDerrQw99KU)
+- [Starting a single phase AC Motor](https://youtu.be/pbg_PF6MTwY)
+- [Single phase Induction Motor / Capacitor start capacitor run motor / Capacitor start induction motor](https://youtu.be/WnQh-J0rRYg)
 
 ### Wiring:
 - [Single Phase Electric Motor Wiring Tutorial: Baldor, WEG, Leeson](https://youtu.be/rLymneTNIdI)
@@ -28,3 +33,7 @@ sch: https://www.google.com/search?q=double+revolving+field+theory
 
 # Centrifugal Switch
 - [How to Troubleshoot an Electric Motor and Adjust Centrifugal Switches](https://youtu.be/M-j6PhthXJY)
+
+## Shaded Pole
+- [This common electric motor is SUPER easy to fix](https://youtu.be/w4aUukWRnlo)
+- [How to Oil a Fan Motor (Shaded-Pole, C-Frame Motor)](https://youtu.be/tdPxoWJ1VVk)
