@@ -31,6 +31,7 @@ https://www.tutorialspoint.com/double-revolving-field-theory-of-single-phase-ind
 ### Wiring:
 - [Single Phase Electric Motor Wiring Tutorial: Baldor, WEG, Leeson](https://youtu.be/rLymneTNIdI)
 - [How to connect a single phase motor and identify each winding lead ?](https://youtu.be/5sVNy4jADeI)
+- [How To Connect Three Wires AC Motor With A Capacitor Attached?](https://youtu.be/Qqh1mBoeSXc)
 - [How to Connect a Single Phase Motor](https://youtu.be/UVjJvJMHzyI)
 
 # Centrifugal Switch
