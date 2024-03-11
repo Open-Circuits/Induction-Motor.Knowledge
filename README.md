@@ -23,6 +23,7 @@ https://www.tutorialspoint.com/double-revolving-field-theory-of-single-phase-ind
 
 ## Reversing:
 - [Reversing single phase induction motors](https://youtu.be/__nS3OelY-s)
+- [Motor Reverse Forward Control Circuit Switch / Reversing single phase motor](https://youtu.be/WETlf_hPOck)
 
 ## Single Phase
 ### Fundamentals:
