@@ -16,6 +16,7 @@
 
 ## Favorite:
 - [Single Phase Induction Motor (Capacitor Induction Motor or AC Motor) explained](https://youtu.be/FDerrQw99KU)
+- [How To Connect Three Wires AC Motor With A Capacitor Attached?](https://youtu.be/Qqh1mBoeSXc)
 
 ### Double Revolving Field Theory
 sch: https://www.google.com/search?q=double+revolving+field+theory
