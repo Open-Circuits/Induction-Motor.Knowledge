@@ -39,3 +39,6 @@ https://www.tutorialspoint.com/double-revolving-field-theory-of-single-phase-ind
 ## Shaded Pole
 - [This common electric motor is SUPER easy to fix](https://youtu.be/w4aUukWRnlo)
 - [How to Oil a Fan Motor (Shaded-Pole, C-Frame Motor)](https://youtu.be/tdPxoWJ1VVk)
+
+## 3 Phase
+- [How to Run 3 phase Motor with 1 phase power supply |](https://youtu.be/i9JmWO2V_yY)
