@@ -43,3 +43,10 @@ https://www.tutorialspoint.com/double-revolving-field-theory-of-single-phase-ind
 
 ## 3 Phase
 - [How to Run 3 phase Motor with 1 phase power supply |](https://youtu.be/i9JmWO2V_yY)
+
+## Capacitor
+### Sizing
+- [Sizing a capacitor for PF correction](https://youtu.be/TPqXNLkJTJM)
+
+### Testing
+- [Get Your Motor Running: Testing A Start Capacitor](https://youtu.be/onuCXcZLaNk)
