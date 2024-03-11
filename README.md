@@ -30,6 +30,7 @@ https://www.tutorialspoint.com/double-revolving-field-theory-of-single-phase-ind
 - [Single Phase Induction Motor (Capacitor Induction Motor or AC Motor) explained](https://youtu.be/FDerrQw99KU)
 - [Starting a single phase AC Motor](https://youtu.be/pbg_PF6MTwY)
 - [Single phase Induction Motor / Capacitor start capacitor run motor / Capacitor start induction motor](https://youtu.be/WnQh-J0rRYg)
+- [What is Common, Start and Run?](https://youtu.be/g2ADgrUhb7Y)
 
 ### Wiring:
 - [Single Phase Electric Motor Wiring Tutorial: Baldor, WEG, Leeson](https://youtu.be/rLymneTNIdI)
