@@ -9,12 +9,14 @@
 
 # Induction Motor
 ## Fundamentals:
-sch: https://www.google.com/search?q=double+revolving+field+theory
-
 - [Understanding RMF | The driving force behind every AC machine](https://youtu.be/wqrGHeuxUvI)
 - [Rotating Magnetic Field & Synchronous Speed](https://youtu.be/8XF-11MQGQ0)
 - [How does an Induction Motor work?](https://youtu.be/AQqyGNOP_3o)
 - [Motor Basics](https://youtu.be/qpKybaLURy0)
+
+### Double Revolving Field Theory
+sch: https://www.google.com/search?q=double+revolving+field+theory
+https://www.tutorialspoint.com/double-revolving-field-theory-of-single-phase-induction-motors
 
 ## Reversing:
 - [Reversing single phase induction motors](https://youtu.be/__nS3OelY-s)
