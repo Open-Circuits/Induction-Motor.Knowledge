@@ -25,3 +25,6 @@ sch: https://www.google.com/search?q=double+revolving+field+theory
 - [Single Phase Electric Motor Wiring Tutorial: Baldor, WEG, Leeson](https://youtu.be/rLymneTNIdI)
 - [How to connect a single phase motor and identify each winding lead ?](https://youtu.be/5sVNy4jADeI)
 - [How to Connect a Single Phase Motor](https://youtu.be/UVjJvJMHzyI)
+
+# Centrifugal Switch
+- [How to Troubleshoot an Electric Motor and Adjust Centrifugal Switches](https://youtu.be/M-j6PhthXJY)
